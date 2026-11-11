@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jackline 👋
 
-<!--
-**JKisaaka/JKisaaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Software Engineering student at USIU-Africa in Nairobi, Kenya. I build Android and web apps.
 
-Here are some ideas to get you started:
+## What I'm working on
+- **GitHub Dashboard:** a React app that visualizes my GitHub profile and languages. [Live demo](https://github-dashboard-brown.vercel.app)
+- **SmartWallet:** an Android personal finance app
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+React, JavaScript, Android, Git, REST APIs
+
+## Languages
+English, Swahili
+
+## Get in touch
+Open to internships. Find me on [LinkedIn](https://www.linkedin.com/in/jackline-isaaka-0219b3367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2FqmomKbQ3qmcI5BEoFvLg%3D%3D) or email me at your-jackieke012@gmail.com

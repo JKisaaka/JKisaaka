@@ -14,4 +14,4 @@ React, JavaScript, Android, Git, REST APIs
 English, Swahili
 
 ## Get in touch
-Open to internships. Find me on [LinkedIn](https://www.linkedin.com/in/jackline-isaaka-0219b3367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2FqmomKbQ3qmcI5BEoFvLg%3D%3D) or email me at your-jackieke012@gmail.com
+Open to internships. Find me on [LinkedIn](https://www.linkedin.com/in/jackline-isaaka-0219b3367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2FqmomKbQ3qmcI5BEoFvLg%3D%3D) or email me at jackieke012@gmail.com

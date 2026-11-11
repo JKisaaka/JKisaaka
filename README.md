@@ -1,4 +1,4 @@
-# Hi, I'm Jackline 👋
+# Hello, I'm Jackline 
 
 Final-year Software Engineering student at USIU-Africa in Nairobi, Kenya. I build Android and web apps.
 
